@@ -8,6 +8,6 @@ print(3 == 5)
 print(imie.lower())
 print(imie.count('a'))
 ...
-print(imie + '' + nazwisko)
+print(imie + ' ' + nazwisko)
 print(f'{imie} {nazwisko} ma {wiek} lat')
 print()

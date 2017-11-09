@@ -8,3 +8,11 @@ print(moj_plik1)
 print(zdanie + zdanie2)
 print(zdanie, zdanie2, 56)
 print(zdanie, end='...d')
+
+
+test1 = '10'
+test1 = '20'
+
+print(test1)
+
+
