@@ -1,0 +1,1 @@
+# 3. czy liczba jest podzielna przez 3, 5, 7
