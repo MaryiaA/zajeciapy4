@@ -4,16 +4,10 @@ cyfra = input("Podaj_cyfre")
 cyfra = int(cyfra)
 
 denominator = input('Podzielone przez')
+denominator = int(denominator)
 
-if cyfra % 3 == 0:
-    print("podzielona przez 3")
+if cyfra % denominator == 0:
+    print(f"podzielona przez {denominator}")
+
 else:
-    print("nie podzielona przez 3")
-if cyfra % 5 == 0:
-    print("podzielona przez 5")
-else:
-    print("nie podzielona przez 5")
-if cyfra % 7 == 0:
-    print("podzielona przez 7")
-else:
-    print("nie podzielona przez 7")
+    print(f"nie podzielona przez {denominator}")
