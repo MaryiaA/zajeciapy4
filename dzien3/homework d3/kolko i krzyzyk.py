@@ -4,5 +4,5 @@
 
 wynik = input(f"Podaj wynik")
 
-if wynik ==
+
 
