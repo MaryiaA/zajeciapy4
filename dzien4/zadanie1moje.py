@@ -7,5 +7,5 @@ parzyste = 0
 nieparzyste = 0
 
 
-for in zakres
+for i in zakres:
     print(i%2 == 0)
