@@ -1,0 +1,7 @@
+to jest tekst.
+to jest kolejna linijka
+i jeszcze jedna
+to nowa linijka, ktora stworzyl python
+to nowa linijka, ktora stworzyl python
+to nowa linijka, ktora stworzyl python
+to nowa linijka, ktora stworzyl python
