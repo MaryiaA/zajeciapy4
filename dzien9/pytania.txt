@@ -1,0 +1,9 @@
+pytania = listy [1:3:5]
+
+list, wartosc
+
+wartosc = 3
+
+list [a,2, wartosc]
+
+wartosc = 223
